@@ -1,12 +1,12 @@
-# web2starter
+# ColorKit
 
 ## Why?
 
-*Pre created starter files save time setting up new projects.
+Learn about unit tests and javascript queries
 
 ## How?
 
-Click on that "Use this template" button to create a new repository you absolute G.
+document.query("body");
 
 ## Citations
 
