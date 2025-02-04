@@ -1,11 +1,14 @@
 /* diagnostic styling; comment this out when submitting*/
 
-* {
+/* * {
     outline: 2px dotted white
-}
+} */
 
-body {  
+/* body {  
     background: magenta;
     color: white;
-    }
+    } */
     
+    body {
+        height: 100vh;
+      }
